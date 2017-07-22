@@ -1,0 +1,16 @@
+h1{
+  color: #fff;
+}
+
+
+.btn-dark {
+  background-color: rgba(247, 170, 170, 0.64);
+}
+.bg-primary {
+  background-color:#e8b5bb;
+}
+.map{display:none;
+}
+.text-primary {
+    color: #e8b5bb;
+}
